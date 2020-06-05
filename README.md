@@ -2,6 +2,8 @@
 
 This project is developed to segment various biomedical imaging applications such as segmentation of brain tumors from MR scans, skin lesions from dermoscopy images, and retinal blood vessels from fundus images.
 
+![Some Results](images/results.png)
+
 # Proposed Recurrent Multi-Scale Pyramid Pooling-based U-Net (RMSPP-UNet)
 
 An end-to-end deep learning network called RMSPP-UNET is designed for medical image segmentation. The proposed method is validated with three different medical imaging tasks and performed state-of-the-art performance.
