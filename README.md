@@ -2,7 +2,7 @@
 
 This project is developed to segment various biomedical imaging applications such as segmentation of brain tumors from MR scans, skin lesions from dermoscopy images, and retinal blood vessels from fundus images.
 
-![Some Results](images/results.png)
+!['Some Results'](images/results.png)
 
 # Proposed Recurrent Multi-Scale Pyramid Pooling-based U-Net (RMSPP-UNet)
 
