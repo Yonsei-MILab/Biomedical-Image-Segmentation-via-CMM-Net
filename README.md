@@ -4,13 +4,13 @@ This project is developed to segment various biomedical imaging applications suc
 
 !['Some Results'](images/results.png)
 
-# Proposed Recurrent Multi-Scale Pyramid Pooling-based U-Net (RMSPP-UNet)
+# Proposed CMM-Net: Contextual Multi-Scale Multi-Level Network
 
 An end-to-end deep learning network called RMSPP-UNET is designed for medical image segmentation. The proposed method is validated with three different medical imaging tasks and performed state-of-the-art performance.
 
 # Python Code
 
-we make the source code publicly available for researchers for validation and further improvement.
+We make the source code publicly available for researchers for validation and further improvement.
 The code includes the following files: main, train, predict, and model's network.
 
 # Our Submitted paper
