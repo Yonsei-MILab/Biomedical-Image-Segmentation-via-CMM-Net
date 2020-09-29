@@ -1,4 +1,4 @@
-# Biomedical-Image-Segmentation-via-RMSPP-UNet
+# Biomedical-Image-Segmentation-via-CMM-Net
 
 This project is developed to segment various biomedical imaging applications such as segmentation of brain tumors from MR scans, skin lesions from dermoscopy images, and retinal blood vessels from fundus images.
 
@@ -15,6 +15,6 @@ The code includes the following files: main, train, predict, and model's network
 
 # Our Submitted paper
 
-The paper entitled: "Recurrent Multi-Scale Pyramid Pooling Feature Fusion for Efficient Biomedical Image Segmentation" was submitted to a peer-reviewed journal.
+The paper entitled: "CMM-Net: Contextual Multi-Scale Multi-Level Network for Efficient Biomedical Image Segmentation" was submitted to a peer-reviewed journal.
 
 When using our code for research publications, please cite our paper.
