@@ -6,15 +6,16 @@ This project is developed to segment various biomedical imaging applications suc
 
 # Proposed CMM-Net: Contextual Multi-Scale Multi-Level Network
 
-An end-to-end deep learning network called RMSPP-UNET is designed for medical image segmentation. The proposed method is validated with three different medical imaging tasks and performed state-of-the-art performance.
+An end-to-end deep learning network called CMM-Net is designed for medical image segmentation. The proposed method is validated with three different medical imaging tasks and performed state-of-the-art performance.
 
 # Python Code
 
 We make the source code publicly available for researchers for validation and further improvement.
 The code includes the following files: main, train, predict, and model's network.
 
-# Our Submitted paper
+# Our Published Paper
 
-The paper entitled: "CMM-Net: Contextual Multi-Scale Multi-Level Network for Efficient Biomedical Image Segmentation" was submitted to a peer-reviewed journal.
+This work has been published in Scientific Reports 
 
-When using our code for research publications, please cite our paper.
+Cite this article:
+Al-masni, M.A., Kim, DH. CMM-Net: Contextual multi-scale multi-level network for efficient biomedical image segmentation. Sci Rep 11, 10191 (2021). https://doi.org/10.1038/s41598-021-89686-3
